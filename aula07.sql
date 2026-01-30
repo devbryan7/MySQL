@@ -29,6 +29,8 @@ where idcurso = '4';
 
 select * from cursos;
 
+drop table nome_table
+
 
 alter table cursos
 add primary key (idcurso);
